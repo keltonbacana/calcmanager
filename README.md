@@ -1,0 +1,2 @@
+# calcmanager
+Control your calculations
